@@ -14,8 +14,7 @@
 
 namespace Validation;
 
-require '../../vendor/autoload.php';
-
+require '../../../../autoload.php';
 class Test {
 
     public static function init() {
