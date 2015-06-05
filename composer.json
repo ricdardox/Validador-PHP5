@@ -6,7 +6,7 @@
             "email": "ricardomontesrodriguez@gmail.com"
         }
     ],
-    "keywords": ["ricdardox", "validación", "validador", "validator", "validation"],
+    "keywords": ["ricdardox", "validacion", "validador", "validator", "validation"],
     "description": "Permite validar campos o valores los cuales tienen que cumplir ciertas reglas",
     "require": {
         "php": ">=5.3.0"
